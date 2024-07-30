@@ -1,0 +1,10 @@
+{
+    "fields": [
+        {
+            "name": "header_quote",
+            "label": "Header Quote",
+            "type": "text",
+            "default": "This is a default quote"
+        }
+    ]
+}

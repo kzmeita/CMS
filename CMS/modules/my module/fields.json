@@ -1,0 +1,8 @@
+[
+    {
+        "name": "content",
+        "label": "Content",
+        "type": "text",
+        "default": "Default Content"
+    }
+]

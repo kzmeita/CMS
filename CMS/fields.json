@@ -1,0 +1,23 @@
+{
+    "label": "My Custom Theme",
+    "screenshot": "screenshot.png",
+    "version": "1.0",
+    "author": {
+        "name": "Your Name",
+        "email": "you@example.com"
+    },
+    "global": [
+        {
+            "label": "Accent Color",
+            "name": "accent_color",
+            "type": "color",
+            "default": "#f00"
+        },
+        {
+            "label": "Font Family",
+            "name": "font_family",
+            "type": "text",
+            "default": "Arial, sans-serif"
+        }
+    ]
+}
